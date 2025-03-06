@@ -1,4 +1,7 @@
-plotly
-streamlit==1.30.0
-
 pip freeze > requirements.txt
+plotly==5.15.0
+streamlit==1.30.0
+pandas==2.1.4
+
+
+
