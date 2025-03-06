@@ -1,0 +1,27 @@
+{
+    "name": "",
+    "age": 25,
+    "gender": "Male",
+    "height": 171,
+    "weight": 40,
+    "activity": "Sedentary",
+    "goal": "Maintain Weight",
+    "weight_log": [
+        {
+            "weight": 73,
+            "day": 1
+        },
+        {
+            "weight": 60,
+            "day": 2
+        },
+        {
+            "weight": 65,
+            "day": 3
+        },
+        {
+            "weight": 70,
+            "day": 4
+        }
+    ]
+}
