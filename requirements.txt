@@ -1,0 +1,2 @@
+plotly
+pip freeze > requirements.txt
