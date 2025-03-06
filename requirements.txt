@@ -1,5 +1,4 @@
 plotly
-stremlit
 streamlit==1.30.0
 
 pip freeze > requirements.txt
